@@ -1,8 +1,11 @@
 flask
 flask-cors
 opencv-python-headless
-mediapipe==0.10.9
-numpy==1.26.4
-scikit-learn==1.3.2
+mediapipe==0.10.31
+numpy
 joblib
+scikit-learn
 gdown
+pyspellchecker
+wordfreq
+gunicorn

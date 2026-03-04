@@ -1,8 +1,0 @@
-flask
-flask-cors
-opencv-python-headless
-mediapipe
-numpy
-joblib
-pyspellchecker
-wordfreq
